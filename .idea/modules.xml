@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RecogService.iml" filepath="$PROJECT_DIR$/RecogService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recogservice/recogservice.iml" filepath="$PROJECT_DIR$/recogservice/recogservice.iml" />
+    </modules>
+  </component>
+</project>
